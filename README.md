@@ -1,6 +1,6 @@
 #DF FB P
 ```
-<h1 align="center">Dark-FB-Gold</h1>
+<h1 align="center">DF-FB-Premier</h1>
 <p align="center">
     #DF-FB-Premier is Specially Design For Termux User»
 </p>
@@ -9,7 +9,7 @@
 
 DF-FB-Premier is a python based script which Dark-FB-Gold in termux without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
-![photo_2019-04-16_17-23-52](https://1.bp.blogspot.com/-L6_A9Xvpi30/Xfiee_27k-I/AAAAAAAAAT4/W4o9rYJ0dAck-7VpMM7LWjB1nQeGElUGQCLcBGAsYHQ/s1600/20191217_142042.jpg)
+
 
 ### DF-FB-Premier is available for
 
